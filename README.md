@@ -44,12 +44,12 @@ and also we have to write a set of basic functionalities for a complete project.
 
 
 ## a general view of the project
-$~~$
-![](1.png)
+
+![1](1.PNG)
 > and for additional resources ->> for icons in our case<<-  
 we must create a new QT resource file, then we can add all icons that we need
 
- ![](2.png) 
+ ![2](2.PNG) 
  
  
 
