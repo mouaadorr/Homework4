@@ -2,7 +2,7 @@
 
 
 ##  Create a MainWindow based application using the designer 
-$~~~$
+
 ~~~~
 based on everything we saw in the course, we are finally able to create our own main windows. But before moving to the practice part, reminding some concept that will be necessary in our homework.
 ~~~~
@@ -12,7 +12,7 @@ based on everything we saw in the course, we are finally able to create our own 
    * how can we design it ?
    * how does it works ?
 
-$~~~$
+
 
 # Introduction
 The main window is the whole working area of the program, that provides a framework for building an application's user interface. The main way to access other windows, load and save files...etc.
@@ -23,10 +23,10 @@ Qt has QMainWindow and its related classes for main window management. QMainWind
 * QToolBar: is a class provides a movable panel which contains a set of controls.
 * QStatusBar: is a class that provides a horizontal bar suitable for presenting status informations.
 
-$~~~$
+
 > **Let's code now**
 
-$~~~$
+
 
 # Spreadsheet
 In this iteration of the SpreadSheet we must obtain an application with:
@@ -42,7 +42,7 @@ and also we have to write a set of basic functionalities for a complete project.
 
 --> **all explanations will be included in the code as comments** &nbsp;
 
-$~~$
+
 ## a general view of the project
 $~~$
 ![](images/1.png)
@@ -51,7 +51,7 @@ we must create a new QT resource file, then we can add all icons that we need
 
  ![](images/2.png) 
  
- $~~$
+ 
 
 # finddialog.h 
 * **QDialog** this class is the base class of dialog windows
@@ -114,7 +114,7 @@ finddialog::~finddialog()
 
 ![](images/3.png)
 
-$~~$
+
 
 # godialog.h
 ```cpp
