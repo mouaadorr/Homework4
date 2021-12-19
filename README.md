@@ -112,7 +112,7 @@ finddialog::~finddialog()
 * two pushbuttons
  
 
-![](images/3.png)
+![3](3.PNG)
 
 
 
@@ -177,7 +177,7 @@ GoDialog::~GoDialog()
 * two pushbuttons
 * horizontal spacer 
 
-![](images/4.png)
+![](4.PNG)
 
 
 # spreadsheet.h
@@ -668,7 +668,7 @@ void SpreadSheet::goCellSlot()
 ```
 ________
 # Result :
-$~~$
+
 #  Text Editor
 For this example, we will playing the Designer for a fast application creation. The application is from Qt Examples and is a simple text editor program built around QPlainText. 
 
@@ -676,11 +676,11 @@ For this example, we will playing the Designer for a fast application creation. 
 >is a class that provides a widget which is used to edit and display plain text
 
 ## a general view
-![](images/5.png) 
+![5](5.PNG) 
 
 &nbsp; **and for other resources** 
 
-![](images/6.png)
+![6](6.PNG)
 
 
 
@@ -902,7 +902,7 @@ an interface that contains:
 
 
 
-![](images/7.png)
+![7](7.PNG)
 
 &nbsp; 
 # Result : 
