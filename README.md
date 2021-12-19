@@ -669,6 +669,14 @@ void SpreadSheet::goCellSlot()
 ________
 # Result :
 
+
+https://user-images.githubusercontent.com/93826833/146679725-7a5b2283-7050-436a-ab4a-b4b0e8edd1e7.mp4
+
+
+
+
+________
+
 #  Text Editor
 For this example, we will playing the Designer for a fast application creation. The application is from Qt Examples and is a simple text editor program built around QPlainText. 
 
@@ -906,6 +914,10 @@ an interface that contains:
 
 &nbsp; 
 # Result : 
+
+
+
+https://user-images.githubusercontent.com/93826833/146679195-e1fca859-08e5-4530-b588-edbf6745aedc.mp4
 
 
 
